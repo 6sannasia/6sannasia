@@ -1,4 +1,6 @@
-WOAH welcome! I'm Apoorva :D Pleased to meet you 🤝  
+## ✮ Oooh Welcome! ✮
+I'm Apoorva :D Pleased to meet you 🤝  
+
 I love the intersection of CS, sociology, and art! ☾  
 I've enjoyed exploring mental health computing and visualization 🧠 🖼️  
 Currently, I'm adventuring through the world of graphics programming 🖌️ 🖥  

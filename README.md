@@ -1,9 +1,9 @@
 ## ✮ Oooh You're Here! ✮
 Welcome! I'm Apoorva :D Pleased to meet you 🤝  
 
-I love the intersection of CS, sociology, and art! ☾ I've enjoyed exploring how CS can help communicate and support mental health 🧠 🖼️
+I love the intersection of CS, sociology, and art! ☾ I've enjoyed exploring how CS can help communicate and support mental health 🧠 🖼️ 💻
 
-📍 Currently, I'm adventuring through the world of graphics programming 🖌️ 🖥  
+📍 Currently, adventuring through the world of graphics programming 🖌️ 🖥 🌎 
 
 <!--
 **6sannasia/6sannasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
